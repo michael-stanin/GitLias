@@ -1,2 +1,2 @@
 # GitLias
-Aliases for common commands used in Git
+Aliases for common commands when using Git
