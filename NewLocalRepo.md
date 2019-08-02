@@ -13,3 +13,8 @@ git push origin master
 Similarly you can clone as if this were a remote repo:
 =================================================================================
 git clone path/to/repos/project
+
+
+Update the upstream branch of the current branch
+=================================================================================
+git push --set-upstream origin master
