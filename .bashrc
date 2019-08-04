@@ -32,6 +32,7 @@ alias com='git commit -m'
 alias clone='git clone'
 alias sth='git stash'
 alias lg='git log'
+alias lgp='lg --decorate --graph --all --pretty=oneline'
 alias u='git add -u'
 alias all='git add .'
 ###-git-end
